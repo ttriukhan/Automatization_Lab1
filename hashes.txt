@@ -1,0 +1,14 @@
+MessageDigestHash___________________________________________________________________
+SHA-1: 140f86aae51ab9e1cda9b4254fe98a74eb54c1a1
+SHA-256: c96c6d5be8d08a12e7b5cdc1b207fa6b2430974c86803d8891675e76fd992c20
+SHA-512: dc6d6c30f2be9c976d6318c9a534d85e9a1c3f3608321a04b4678ef408124d45d7164f3e562e68c6c0b6c077340a785824017032fddfa924f4cf400e6cbb6adc
+
+SecureRandomHash____________________________________________________________________
+SHA1PRNG: 2fc13892909eaa8817298d32faa90859
+DRBG: b8761429b70b0713a2558a50a373a856
+
+Correct + incorrect classes_________________________________________________________
+Correct hash: Pink circle of radius 1 - 2488694
+Correct hash: Blue circle of radius 100 - 2077783
+Incorrect hash: Pink circle of radius 1 - 42
+Incorrect hash: Blue circle of radius 100 - 42
